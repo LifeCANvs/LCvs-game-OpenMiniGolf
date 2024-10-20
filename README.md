@@ -10,7 +10,7 @@ A cross-platform minigolf game written in C.
 - macOS X
 - FreeBSD
 
-- try adding support for Haiku, SerenityOS...
+- try adding support for Win32 (Windows XP and maybe 2000 and 98SE), Haiku, SerenityOS...
 
 
 ## Info
