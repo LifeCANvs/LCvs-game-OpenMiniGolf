@@ -7,6 +7,11 @@ A cross-platform minigolf game written in C.
 - Android: https://play.google.com/store/apps/details?id=me.mgerdes.open_golf
 - Windows
 - Linux
+- macOS X
+- FreeBSD
+
+- try adding support for Haiku, SerenityOS...
+
 
 ## Info
 ![Image](https://i.imgur.com/TBlXedl.gif)
